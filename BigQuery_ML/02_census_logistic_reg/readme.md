@@ -1,5 +1,5 @@
 # 02: Using logistic regression model for classification on census data 
-This project used a binary logistic regression model in BigQuery ML to predict the income range of respondents in the US Census Dataset. The dataset (`census_adult_income`) has about 32561 rows of data. 
+This project used a binary logistic regression model in BigQuery ML to predict the income range of respondents in the US Census Dataset. The dataset [`census_adult_income`](https://cloud.google.com/bigquery?p=bigquery-public-data&d=census_bureau_usa&page=dataset&project=paulkamau) has about 32561 rows of data. 
 
 ## Objective 
 1. Create a linear regression model 
