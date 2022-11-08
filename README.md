@@ -18,12 +18,11 @@ Find all my social links here 👉
 ### Technology based projects and solutions 
 I love experimenting with new technologies and approaches to these. The 4 categories of ML Platforms are: 
 
-- [💻 BigQuery ML](BigQuery_ML/)
-- [✍️ TensorFlow](TensorFlow/)
-- [🤖 AutoML ](AutoML/)
-- [✍️ ExplainableAI](Explainable_AI/)
-- [☀️ AI APIs ]
-- [☀️ General ](General/)
+- [🤖 AutoML ](01_AutoML/)
+- [💻 BigQuery ML](02_BigQuery_ML/)
+- [✍️ ExplainableAI](03_Explainable_AI/)
+- [✍️ TensorFlow](04_TensorFlow/)
+
 
 ### Categorial based projects with different algorithms using TensorFlow & BigQuery ML 
 I love experimenting with new technologies and approaches to these. The 4 categories of ML Platforms are: 
