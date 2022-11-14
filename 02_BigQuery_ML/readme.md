@@ -25,7 +25,14 @@ Catalog of work
 ---------------
 
 - [01: Using linear regression model in BQML to predict penguin weight](01_taxi_fare_prediction/readme.md)
-- [01: title](02_census_logistic_reg/readme.md)
+- [02: Using logistic regression model for classification on census data](02_census_logistic_reg/readme.md)
+- [03 Using linear regression model in BQML to predict penguin weight](03_penguin_weight_linear_reg/readme.md)
+- [04: Using a K-Mean Model to cluster London bicycle hires dataset](04_london_bike_hires_k_means/readme.md)
+- [05: Creating a matrix factorization model to make movie recommendations](05_movie_recs_matrix_factorization/readme.md)
+- [06: Single time-series forecasting from Google Analytics data](06_g_analytics_single_timeseries/readme.md)
+- [07: Multiple time-series forecasting with a single query for NYC Citi Bike trips](07_bike_trips_multiple_timeseries/readme.md)
+- [How to use a logistic classification regression model to predict Churn on pre-processed Google Analytics 4 data using  BigQueryML](08_churn_predict_log_reg/readme.md)
+
 
 --------------------------------------------------------------------------------
 
