@@ -15,7 +15,7 @@ On the autoML console, “create dataset” and set the import file path to the 
 
 ```bash
 gs://cloud-samples-data/ai-platform/flowers/flowers.csv 
-``` 
+```
 
 ## Training an AutoML Image Classification Model 
 The AutoML training method allows the user to train the model with minimal effort and ML expertise.
