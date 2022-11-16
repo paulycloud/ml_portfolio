@@ -25,17 +25,19 @@ I love experimenting with new technologies and approaches to these. The 4 catego
 
 
 ### Categorial based projects with different algorithms using TensorFlow & BigQuery ML 
-I love experimenting with new technologies and approaches to these. The 4 categories of ML Platforms are: 
+I love experimenting with new technologies and approaches to these. 
 
-- Computer Vision 
-- Natural Language Processing
-- Structured Data
-- Timeseries
-- Audio Data
-- Generative Deep Learning
-- Reinforcement Learning
-- Graph Data
-- Quick Keras Recipes
+To Do:
+- [x] Computer Vision 
+- [x] Natural Language Processing
+- [x] Structured Data
+- [x] Timeseries
+- [x] TF Hub
+- [ ] Audio Data
+- [ ] Generative Deep Learning
+- [ ] Reinforcement Learning
+- [ ] Graph Data
+- [ ] Quick Keras Recipes
 
 --------------------------------------------------------------------------------
 
