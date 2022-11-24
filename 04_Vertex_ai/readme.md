@@ -38,9 +38,16 @@ The goal when developing a model for a problem is to identify the best model for
 Vertex ML Metadata lets you record the metadata and artifacts produced by your ML system and query that metadata to help analyze, debug, and audit the performance of your ML system or the artifacts that it produces.
 
 ### Model Evaluations
+Vertex AI provides model evaluation metrics, such as precision and recall, to help you determine the performance of your models.
 
+The model evaluation provided by Vertex AI can fit in the typical machine learning workflow in several ways:
+
+- After you train your model, review model evaluation metrics before you deploy your model. You can compare evaluation metrics across multiple models to help you decide which model you should deploy.
+
+- After your model is deployed to production, periodically evaluate your model with new incoming data. If the evaluation metrics show that your model performance is degrading, consider re-training your model. This process is called continuous evaluation.
 
 ### Model Registry
+The Vertex AI Model Registry is a central repository where you can manage the lifecycle of your ML models. From the Vertex AI Model Registry, you have an overview of your models so you can better organize, track, and train new versions. When you have a model version you would like to deploy, you can assign it to an endpoint directly from the registry, or using aliases, deploy models to an endpoint.
 
 
 --------------------------------------------------------------------------------

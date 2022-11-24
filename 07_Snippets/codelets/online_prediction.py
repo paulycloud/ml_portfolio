@@ -1,5 +1,3 @@
-# This is how we do json predictions
-
 petfinder_adoption_prediction = petfinder_adoption_endpoint.predict(
     [
         {
@@ -19,5 +17,4 @@ petfinder_adoption_prediction = petfinder_adoption_endpoint.predict(
         }
     ]
 )
-
 print(petfinder_adoption_prediction)
