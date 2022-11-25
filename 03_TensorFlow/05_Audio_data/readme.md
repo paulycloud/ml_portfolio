@@ -1,16 +1,6 @@
 
-# Audio
-
-Decription 
-
-Key Concepts
-------------
-- concept 1 
-
-
-Objective
-------------
-- objective
+# Audio ML Models 
+It is an elegant way to capture the essential features of audio data as an image. Typical pipeline used by audio deep learning models
 
 
 --------------------------------------------------------------------------------

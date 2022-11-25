@@ -10,7 +10,7 @@ I'm a certified [Google Professional Machine Learning Engineer](https://www.cred
 
 I've completed over 100 hours of learning materials on [Pluralsight](https://app.pluralsight.com/profile/paulkamau) and 116 labs [CloudSkillsBoost](https://www.cloudskillsboost.google/profile/activity?utf8=%E2%9C%93&q%5Bcompleted_at_not_null%5D=1) 
 
-Here's a catalog of my work in Machine learning across multiple streams.  
+Here's a catalog of my work in Machine learning across multiple project types.  
 
 Find all my social links here 👉
 [All My Links](https://bio.link/paulkamau)
@@ -20,20 +20,34 @@ I love experimenting with new technologies and approaches to these. The 4 catego
 
 - [🤖 AutoML ](01_AutoML/)
 - [💻 BigQuery ML](02_BigQuery_ML/)
-- [✍️ ExplainableAI](03_Explainable_AI/)
-- [✍️ TensorFlow](04_TensorFlow/)
+- [✍️ TensorFlow](03_TensorFlow/)
+- [✍️ Vertex AI](04_Vertex_ai/)
+
+### Catalog of Work
+-------------------
+### AutoML 
+**Image classification**
+
+**Text classification**
+
+**Video classification**
+
+**Tablular classification**
+
+### BigQuery 
 
 
-### Categorial based projects with different algorithms using TensorFlow & BigQuery ML 
-I love experimenting with new technologies and approaches to these. 
 
-To Do:
+### TensorFlow
 - [x] Computer Vision 
 - [x] Natural Language Processing
 - [x] Structured Data
 - [x] Timeseries
 - [x] TF Hub
-- [ ] Audio Data
+- [x] Audio Data
+
+
+***To Do***
 - [ ] Generative Deep Learning
 - [ ] Reinforcement Learning
 - [ ] Graph Data
