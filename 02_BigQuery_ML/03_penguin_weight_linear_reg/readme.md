@@ -1,4 +1,5 @@
-# 03 Using linear regression model in BQML to predict penguin weight 
+# 03 How to use a linear_regression model to predict penguin weight on Penguin Public Dataset using BigQuery ML
+
 This project used a linear regression model in BigQuery ML to predict the weight of a penguin based on the penguin's species, island of residence, culmen length and depth, flipper length, and sex.
 
 ## Objective 

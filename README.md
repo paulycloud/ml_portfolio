@@ -25,7 +25,9 @@ I love experimenting with new technologies and approaches to these. The 4 catego
 
 ### Catalog of Work
 -------------------
+
 ### AutoML 
+----------
 **Image classification**
 
 **Text classification**
@@ -34,11 +36,14 @@ I love experimenting with new technologies and approaches to these. The 4 catego
 
 **Tablular classification**
 
+-------------
 ### BigQuery 
+-------------
 
 
-
+--------------
 ### TensorFlow
+--------------
 - [x] Computer Vision 
 - [x] Natural Language Processing
 - [x] Structured Data

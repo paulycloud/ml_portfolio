@@ -1,5 +1,5 @@
 
-# 09: Multiple time-series forecasting with a single query for NYC Citi Bike trips
+# 07: Multiple time-series forecasting with a single query for NYC Citi Bike trips
 
 This project used the ARIMA Time Series Model in BigQuery ML to perform multiple time-series forecasts with a single query. Different fast training strategies were applied to significantly speed up the query and evaluate forecasting accuracy. 
 
@@ -21,7 +21,6 @@ The Dataset used was the new_york.citibike_trips data. This data contains inform
 1. ML.FORECAST 
 1. ML.EXPLAIN_FORECAST
 1. ML.WEIGHTS
-
 
 ## steps
 1. Create the dataset & load the dataset into BQ

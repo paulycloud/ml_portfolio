@@ -2,7 +2,6 @@
 # 04: Using a K-Mean Model to cluster London bicycle hires dataset
 This project uses a k-means model in BigQuery ML to identify clusters of data in the London Bicycle Hires public dataset.
 
-
 ### Key Concepts: 
 - K-Means 
 - Unsupervised models

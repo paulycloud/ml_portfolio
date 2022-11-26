@@ -1,6 +1,5 @@
 
 # AutoML Projects
-
 AutoML enables developers with limited machine learning expertise to train high-quality models specific to their business needs. Build your own custom machine learning model in minutes.
 
 While AutoML is primarily built using graphical interfaces, i've used google co-lab to abstract these builds into a Jupyter notebook so that I can easily share my work.  
@@ -8,7 +7,7 @@ While AutoML is primarily built using graphical interfaces, i've used google co-
 Capabilities
 ------------
 - Structured data analysis
-- AutoML Image 
+- AutoML Image (Classification or object detection)
 - AutoML Video 
 - AutoML Text 
 - AutoML Translation 

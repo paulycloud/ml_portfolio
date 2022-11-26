@@ -20,7 +20,6 @@ Built Models
 - TensorFlow model importing. This feature lets you create BigQuery ML models from previously trained TensorFlow models, then perform prediction in BigQuery ML.
 - Autoencoder for creating Tensorflow-based BigQuery ML models with the support of sparse data representations. The models can be used in BigQuery ML for tasks such as unsupervised anomaly detection and non-linear dimensionality reduction.
 
-
 Catalog of work
 ---------------
 
@@ -32,7 +31,6 @@ Catalog of work
 - [06: Single time-series forecasting from Google Analytics data](06_g_analytics_single_timeseries/readme.md)
 - [07: Multiple time-series forecasting with a single query for NYC Citi Bike trips](07_bike_trips_multiple_timeseries/readme.md)
 - [How to use a logistic classification regression model to predict Churn on pre-processed Google Analytics 4 data using  BigQueryML](08_churn_predict_log_reg/readme.md)
-
 
 --------------------------------------------------------------------------------
 

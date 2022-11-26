@@ -1,6 +1,6 @@
 # 06: Single time-series forecasting from Google Analytics data
-This project used the ARIMA time series model in BigQuery ML to perform a single forecast of daily total visits  using the google analytics sample ga_sessions dataset. The ga_sessions table contains information about a slice of session data collected by Google Analytics 360 and sent to BigQuery.
 
+This project used the ARIMA time series model in BigQuery ML to perform a single forecast of daily total visits  using the google analytics sample ga_sessions dataset. The ga_sessions table contains information about a slice of session data collected by Google Analytics 360 and sent to BigQuery.
 
 ## Key Concepts: 
 - ML.ARIMA_EVALUATE

@@ -1,4 +1,4 @@
-# 08. Using BQML ARIMA Time Series to Predict Demand for NYC Taxis based on the Weather Forecast
+# 01. Using BQML ARIMA models to Predict Demand for NYC Taxis based on the Weather Forecast
 
 This project used the ARIMA Time Series Model in BigQuery ML to perform multiple time-series forecasts with a single query. Different fast training strategies were applied to significantly speed up the query and evaluate forecasting accuracy. 
 
