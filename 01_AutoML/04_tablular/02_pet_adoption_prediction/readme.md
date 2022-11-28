@@ -1,4 +1,4 @@
-# 04 Classify tabular data with AutoML using Vertex AI 
+# Predict Pet Adoption (Yes/No) Using AutoML Tabular Logistic classification
 
 Key Concepts: 
 - AutoML 
@@ -8,10 +8,7 @@ Key Concepts:
 # Objective 
 Build a binary classification model from tabular data using Vertex AI.
 
-# 01 Predict whether a Bank client will purchase a Term deposit (1=no, 2=yes) using AutoML Binary Logistic Regression  
-
 The goal of the trained model is to predict whether a bank client will buy a term deposit (a type of investment) using features like age, income, and profession. This type of model can help banks determine who to focus its marketing resources on.
-
 
 Source: 
 [CloudSkillsBoot](https://www.cloudskillsboost.google/focuses/43565?locale=en&parent=catalog)

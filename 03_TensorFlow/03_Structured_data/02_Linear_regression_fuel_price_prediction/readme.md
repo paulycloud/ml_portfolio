@@ -1,6 +1,5 @@
 # Predict Fuel Efficiency using linear regression with TensorFlow Keras API
 
-
 The purpose of this project is to use Linear regression to predict fuel efficiency. 
 
 The dataset used was the classic [Auto MPG](https://archive.ics.uci.edu/ml/datasets/auto+mpg) dataset and demonstrates how to build models to predict the fuel efficiency of the late-1970s and early 1980s automobiles. 

@@ -17,7 +17,7 @@ Catalog of work
 - [01 Classify images with AutoML using Vertex AI](01_image_classification_flower_dataset/readme.md)
 - [02 Classify text with AutoML using Vertex AI](02_text_classification_text_dataset/readme.md)
 - [03 Classify Video with AutoML using Vertex AI](03_video_classification__dataset/readme.md)
-- [04 Classify tabular data with AutoML using Vertex AI](04_tablular_classification__dataset/readme.md)
+- [04 Classify tabular data with AutoML using Vertex AI](04_tabular_classification__dataset/readme.md)
 
 --------------------------------------------------------------------------------
 _Let's connect and chat! Open to anyone on Earth under the Sun and Moon._

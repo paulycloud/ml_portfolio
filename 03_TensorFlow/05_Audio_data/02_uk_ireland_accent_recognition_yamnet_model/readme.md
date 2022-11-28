@@ -1,5 +1,5 @@
 
-# UK and Ireland English speaker accent recognition using TFHub Transfer Learning 
+# UK and Ireland English speaker accent recognition using TFHub Transfer Learning from Yamnet Models
 **Author:** [Fadi Badine](https://twitter.com/fadibadine)<br>
 
 **Project Type:** TensorFlow Hub<br>

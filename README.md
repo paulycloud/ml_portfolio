@@ -23,36 +23,93 @@ I love experimenting with new technologies and approaches to these. The 4 catego
 - [✍️ TensorFlow](03_TensorFlow/)
 - [✍️ Vertex AI](04_Vertex_ai/)
 
-### Catalog of Work
+## Catalog of Work
 -------------------
 
 ### AutoML 
 ----------
-**Image classification**
+**Image classification** 
+ 
+- [Classify flower specifies using data from Google's Flower dataset with AutoML Image](01_AutoML/01_image/01_flower_dataset/readme.md)
+
+- [Classify salad items using data from TensorFlow's Open Image Dataset with AutoML Image](01_AutoML/01_image/02_salad_categories/readme.md)
+
 
 **Text classification**
 
+- [Classify text sentiment using data from HappyDB Dataset with AutoML Text](01_AutoML/02_text/01_happyMoments_dataset/readme.md)
+
 **Video classification**
 
-**Tablular classification**
+- [Classify video features specifies using data from Google's Flower dataset with AutoML Image](01_AutoML/03_video/01%20traffic%20video%20tracking/readme.md)
 
--------------
+
+**tabular classification**
+- [01 Predict whether a Bank client will purchase a Term deposit (1=no, 2=yes) using AutoML Binary Logistic Regression](01_AutoML/04_tablular/01_bank_term_purchase_deposit/readme.md)
+
+- [Predict Pet Adoption (Yes/No) Using AutoML Tabular Logistic classification](01_AutoML/04_tablular/02_pet_adoption_prediction/readme.md)
+
 ### BigQuery 
--------------
+------------
+- [Intro to BQ](02_BigQuery_ML/00_Intro_to_BigQuery_Notebook/readme.md)
 
+- [01. Using BQML ARIMA models to Predict Demand for NYC Taxis based on the Weather Forecast](02_BigQuery_ML/01_nyc_taxi_demand_timeseries/readme.md)
 
---------------
+- [02: How to use a logistic classification regression model to predict Income bucket on census data using  BigQueryML](02_BigQuery_ML/02_census_logistic_reg/readme.md)
+
+- [03 How to use a linear_regression model to predict penguin weight on Penguin Public Dataset using BigQuery ML](02_BigQuery_ML/03_penguin_weight_linear_reg/readme.md)
+
+- [04: Using a K-Mean Model to cluster London bicycle hires dataset](02_BigQuery_ML/04_london_bike_hires_k_means/readme.md)
+- [05: Creating a matrix factorization model to make movie recommendations](02_BigQuery_ML/05_movie_recs_matrix_factorization/readme.md)
+- [06: Single time-series forecasting from Google Analytics data](02_BigQuery_ML/06_g_analytics_single_timeseries/readme.md)
+- [07: Multiple time-series forecasting with a single query for NYC Citi Bike trips](02_BigQuery_ML/07_bike_trips_multiple_timeseries/readme.md)
+- [08: How to use a logistic classification regression model to predict Churn on pre-processed Google Analytics 4 data using  BigQueryML](02_BigQuery_ML/08_churn_predict_log_reg/readme.md)
+
 ### TensorFlow
 --------------
-- [x] Computer Vision 
-- [x] Natural Language Processing
-- [x] Structured Data
-- [x] Timeseries
-- [x] TF Hub
-- [x] Audio Data
+#### Computer Vision
+[Use computer vision to recognize different items of clothing.](03_TensorFlow/01_computer_vision/01_fashion_mnist_classification/readme.md)
+
+[Image Classification Cats & Dogs from scratch](03_TensorFlow/01_computer_vision/02_scratch_cats_dogs/readme.md)
+
+[Use Convolutional Neural Network (CNN) to classify CIFAR Images.](03_TensorFlow/01_computer_vision/03_cifar_images_classification_CNNs/readme.md)
+
+[Use Keras Sequential API to classify Flower Images.](03_TensorFlow/01_computer_vision/04_flowers_classification_keras_species/readme.md)
+
+[ Use TensorFlow Object Detection to detect COCO 2017 dataset](03_TensorFlow/01_computer_vision/05_object_detection_coco271_dataset/readme.md)
+
+#### ML Explainability
+[Analyze Flight Predictions with Explainable AI with TensorFlow on Vertex AI](03_TensorFlow/02_ML_explanability/01_flight_predictions/readme.md)
+
+#### Natural Language Processing
+[Text classification using Keras TF Hub: Movie reviews](03_TensorFlow/02_Natural_Language_Processing/01%20Text_classification_imdb_reviews_dataset_with_TFhub/readme.md)
+
+[Text classification for AG News using Keras TensorFlow Hub:](03_TensorFlow/02_Natural_Language_Processing/02%2001%20Text_classification_ag_news_dataset_with_TFhub/readme.md)
+
+#### Structured Data
+[Binary text classification for movie reviews ratings](03_TensorFlow/03_Structured_data/01_text_classification_movie_reviews/readme.md)
+
+[Predict Fuel Efficiency using linear regression with TensorFlow Keras API](03_TensorFlow/03_Structured_data/02_Linear_regression_fuel_price_prediction/readme.md)
 
 
-***To Do***
+#### Timeseries
+[Training a timeseries classifier from scratch on the FordA dataset from the UCR/UEA archive.](03_TensorFlow/04_Timeseries/01_example_fordA_dataset/readme.md)
+
+#### TF Hub
+[Use TFHub Pretrained Keras Model with image feature extraction to classify 5 Flower Species](03_TensorFlow/08_tf_hub/01_keras_model_image_flowers_species/readme.md)
+
+[Use TFHub Pretrained BERT Model with to perform Sentiment Analysis on plain-text IMDB Movie Reviews](03_TensorFlow/08_tf_hub/02_BERT_model_sentiment_analysis_imdb_movie_reviews/readme.md)
+
+[Use TFHub Pretrained MoveNet Model to perform human post estimation with images downloaded from Pexel](03_TensorFlow/08_tf_hub/03_human_pose_estimation_moveNet/readme.md)
+
+#### Audio Data
+[Automatic Speech Recognition with Transformer](03_TensorFlow/05_Audio_data/01_automatic_speech_recog_w_transformer/readme.md)
+
+[UK and Ireland English speaker accent recognition using TFHub Transfer Learning from Yamnet Models](03_TensorFlow/05_Audio_data/02_uk_ireland_accent_recognition_yamnet_model/readme.md)
+
+
+## ***To Do***
+- [ ] Recommenders
 - [ ] Generative Deep Learning
 - [ ] Reinforcement Learning
 - [ ] Graph Data
