@@ -1,4 +1,4 @@
-# 0Predict whether a Bank client will purchase a Term deposit (1=no, 2=yes) using AutoML Binary Logistic Regression  
+# Predict whether a Bank client will purchase a Term deposit (1=no, 2=yes) using AutoML Binary Logistic Regression  
 
 The goal of the trained model is to predict whether a bank client will buy a term deposit (a type of investment) using features like age, income, and profession. This type of model can help banks determine who to focus its marketing resources on.
 
