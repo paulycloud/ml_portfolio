@@ -2,7 +2,7 @@
 
 ##### Copyright 
 **Author - GUI Tutorial :** [Google  Kamau](https://cloud.google.com)<br>
-**Author Notebook Version:** [Paul Kamau](https://bio.link/paulkamau)<br>
+**Author Notebook Version:** [Paul Kamau](https://paulkamau.com)<br>
 **Project Type:** AutoML<br>
 **Last modified:** 11/26/2022<br>
 **Description:** Using TFHub Model Audio Event classifier called Yamnett Model, to classify UK & Ireland accents using feature extraction from [Yamnet Model](https://tfhub.dev/google/yamnet/1). 

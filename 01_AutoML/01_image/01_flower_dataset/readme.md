@@ -2,7 +2,7 @@
 
 ##### Copyright 
 **Author - GUI Tutorial :** [Google Cloud](https://cloud.google.com/vertex-ai/docs/tutorials/image-recognition-automl/dataset)<br>
-**Author Notebook Version:** [Paul Kamau](https://bio.link/paulkamau)<br>
+**Author Notebook Version:** [Paul Kamau](https://paulkamau.com)<br>
 **Project Type:** AutoML Image Classification<br>
 **Last modified:** 11/26/2022<br>
 **Description:** Using AutoML Vertex AI Image Classification feature to  Classify flower specifies using data from Google's Flower dataset with AutoML Image

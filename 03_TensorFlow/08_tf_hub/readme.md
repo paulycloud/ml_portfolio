@@ -4,7 +4,7 @@
 ***Project title example: ***
 
 # UK and Ireland English speaker accent recognition using TFHub Transfer Learning 
-**Author:** [Paul Kamau](https://bio.link/paulkamau)<br>
+**Author:** [Paul Kamau](https://paulkamau.com)<br>
 
 **Project Type:** TensorFlow Hub<br>
 

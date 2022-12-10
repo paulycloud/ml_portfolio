@@ -1,11 +1,10 @@
-# 02: How to use a logistic classification regression model to predict Income bucket on census data using  BigQueryML
+# How to use a logistic classification regression model to predict Income bucket on census data using  BigQueryML
 
 This project used a binary logistic regression model in BigQuery ML to predict the income range of respondents in the US Census Dataset. The dataset [`census_adult_income`](https://cloud.google.com/bigquery?p=bigquery-public-data&d=census_bureau_usa&page=dataset) has about 32561 rows of data. 
 
 ## Objective 
-1. Create a linear regression model 
-1. Evaluate the linear regression model 
-1. Make the penguin weight predictions using the linear regression model. 
+1. TBD
+
 
 ## Key Concepts
 1. Logistic regression 
