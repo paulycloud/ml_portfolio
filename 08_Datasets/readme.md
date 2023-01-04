@@ -26,7 +26,6 @@ for example in ds.take(1):
 ## OpenML Datasets
 Datasets provide training data for machine learning models. OpenML datasets are uniformly formatted and come with rich meta-data to allow automated processing. You can sort or filter them by a range of different properties. Learn more.
 
-
 ## Google Dataset Search
 
 
