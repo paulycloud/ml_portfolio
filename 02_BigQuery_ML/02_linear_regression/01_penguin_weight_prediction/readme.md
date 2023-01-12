@@ -7,11 +7,6 @@ This project used a linear regression model in BigQuery ML to predict the weight
 1. Evaluate the linear regression model 
 1. Make the penguin weight predictions using the linear regression model. 
 
-## Key Concepts
-1. Linear regression 
-1. Explainable AI
-1. ML.EVALUATE
-1. ML PREDICT
 
 ## steps
 1. Create the dataset and dataset table
@@ -24,7 +19,13 @@ This project used a linear regression model in BigQuery ML to predict the weight
 1. Use the ML.GLOBAL_EXPLAIN function to know which features are the most important to determine the weight. 
 
 --------------------------------------------------------------------------------
-
 _Let's connect and chat! Open to anyone on Earth under the Sun and Moon._
+Find all my social links here
 
-[![](https://github.com/paulycloud/paulycloud/blob/main/assets/twitter.png)](https://twitter.com/paulycloud) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/linkedin.png)](https://www.linkedin.com/in/paulmkamau/) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/insta.png)](https://www.instagram.com/paulykamau) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/behance.png)](https://www.behance.net/paulycloud) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/dribbble.png)](https://dribbble.com/paulycloud) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/facebook.png)](https://www.facebook.com/paul.m.kamau.3/) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/github.png)](https://github.com/paulycloud) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/medium.png)](https://medium.com/@paulkamau) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/dev.png)](https://dev.to/paulycloud)
+#### All My Links
+[BioLink](https://bio.link/paulkamau)
+
+
+#### Buy Me Coffee
+[Cashapp](https://bio.link/paulkamau)
+[PayPal](https://paypal.me/paulkamau)
