@@ -27,8 +27,8 @@ series_code.series_summary = indicator_code.Health_nutrition_population
 
 ## Tasks
 1. Use the country summary table details to create a cleaned, flattened data set to build predictions based on the series extracted. 
-1. 
-
+1. Created a pivot table that took the rows from Health nutrition population and created column structures into a new table. 
+1.  
 
 
 ## steps
