@@ -6,6 +6,7 @@
 1. Google Cloud Marketplace Datasets | [Source](https://cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.117206726.1548303019.1669322993-270543887.1669322993)
 1. UCI Machine Learning Repository | [Source](https://archive.ics.uci.edu/ml/datasets.php)
 1. [Grouplens](https://grouplens.org/about/what-is-grouplens/)
+1. [Datahub](https://datahub.io/collections)
 
 ## TensorFlow Datasets
 TensorFlow Datasets is a collection of datasets ready to use, with TensorFlow or other Python ML frameworks, such as Jax. All datasets are exposed as `tf.data.Datasets` , enabling easy-to-use and high-performance input pipelines. To get started see the guide and our list of datasets.
