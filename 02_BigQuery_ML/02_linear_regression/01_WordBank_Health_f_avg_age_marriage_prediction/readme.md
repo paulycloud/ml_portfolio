@@ -21,9 +21,8 @@ Multiple tables have been used to compile the data. The data was flattened to cr
 1. Evaluate the linear regression model 
 1. Predict the average age average age of first marriage for females given certain factors based on the World Health Population Dataset
 
-## JOINS 
-series_code.series_summary = indicator_code.Health_nutrition_population
-
+## Data Manipulation with SQL
+- See the data_operations notebook
 
 ## Tasks
 1. Use the country summary table details to create a cleaned, flattened data set to build predictions based on the series extracted. 
