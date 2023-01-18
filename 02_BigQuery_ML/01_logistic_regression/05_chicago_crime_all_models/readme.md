@@ -30,18 +30,21 @@ location]`
 
 
 # Linear Regression Models: 
-
-
-
-# Clustering Models: 
-- Cluster highest crime
-- Cluster safest
 - 
+
+
+# K-Means Clustering Models: 
+- Dates with highest Cluster highest crime
+- Cluster crimes 
+- Cluster locations
+- Cluster districts
+
+# Timeseries Models: 
+- Using BQML ARIMA models to Predict Demand for NYC Taxis based on the Weather Forecast
 
 
 # Matrix Factorization Models: 
 - Law enforcement distribution 
-- 
 
 
 --------------------------------------------------------------------------------
