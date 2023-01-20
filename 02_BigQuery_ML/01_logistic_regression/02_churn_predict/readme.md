@@ -1,5 +1,5 @@
 
-### 08: How to use a logistic classification regression model to predict Churn on pre-processed Google Analytics 4 data using  BigQueryML
+### 08: How to use a logistic classification model to predict Churn on pre-processed Google Analytics 4 data using  BigQueryML
 
 [original source](https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/bigquery_ml/bqml-online-prediction.ipynb)
 

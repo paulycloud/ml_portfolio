@@ -1,50 +1,49 @@
-# Chicago Crime Data Set Machine Learning Model Ideas 
+# WorldBank Health Dataset 
 
-Table data: 
+The dataset [`world_bank_health_population`](https://cloud.google.com/bigquery?sq=1057666841514:3bb229234d7f4b379098581f0101e923&_ga=2.81369303.-1379782407.1673021064&project=paulkamau&ws=!1m9!1m3!3m2!1sbigquery-public-data!2sworld_bank_health_population!1m4!4m3!1sbigquery-public-data!2sworld_bank_health_population!3scountry_series_definitions) combines key health statistics from a variety of sources to provide a look at global health and population trends. It includes information on nutrition, reproductive health, education, immunization, and diseases from over 200 countries from 1960 - 2020
 
-`[unique_key,					
-case_number,					
-date,					
-block,				
-iucr,				
-primary_type,				
-description,			
-location_description,					
-arrest,				
-domestic,					
-beat,				
-district,					
-ward,				
-community_area,					
-fbi_code,					
-x_coordinate,					
-y_coordinate,					
-year,				
-updated_on,				
-latitude,				
-longitude,				
-location]`		
+Multiple tables have been used to compile the data. The data was flattened to create a single working set: 
 
-# Logisitic Regression Models: 
-- Predict arrest probability (yes,no) on Chicago Crime
+- Country series definitions 
+- Country summary 
+- Health nutrition population
+- International debt
+- Series summary 
+- Series times
+
+See the Data operations file for the series of transformations. 
+
+# Potential ML Models
+## Logisitic Regression Models: 
+- TBD
+
+## Linear Regression Models: How to use a linear regression model to:
+### averages
+- Predict the average Total alcohol consumption per capita (SH.ALC.PCAP.LI) using the World Bank Health dataset in BigQuery ML
+- Predict the average age at first marriage for female (SP.DYN.SMAM.FE) using the World Bank Health dataset in BigQuery ML
+- Predict the average age at first marriage for males (SP.DYN.SMAM.MA) using the World Bank Health dataset in BigQuery ML
 
 
-# Linear Regression Models: 
-- 
+#### annual 
+- Predict the Total alcohol consumption per capita (SH.ALC.PCAP.LI) for the US in 2020 using the World Bank Health dataset in BigQuery ML
+- Predict the age at first marriage for female (SP.DYN.SMAM.FE) for the US in 2020 using the World Bank Health dataset in BigQuery ML
+- Predict the age at first marriage for males (SP.DYN.SMAM.MA) for the US using the World Bank Health dataset in BigQuery ML
 
-
-# K-Means Clustering Models: 
+## K-Means Clustering Models: 
 - Dates with highest Cluster highest crime
 - Cluster crimes 
 - Cluster locations
 - Cluster districts
 
-# Timeseries Models: 
-- Using BQML ARIMA models to Predict Demand for NYC Taxis based on the Weather Forecast
+
+## Timeseries Models: 
+- Predict the Total alcohol consumption per capita (SH.ALC.PCAP.LI) for the US in 2022 using the World Bank Health dataset in BigQuery ML
+- Predict the age at first marriage for female (SP.DYN.SMAM.FE) for the US in 2022 using the World Bank Health dataset in BigQuery ML
+- Predict the age at first marriage for males (SP.DYN.SMAM.MA) for the US using the World Bank Health dataset in BigQuery ML
 
 
-# Matrix Factorization Models: 
-- Law enforcement distribution 
+## Matrix Factorization Models: 
+- TBD
 
 
 --------------------------------------------------------------------------------

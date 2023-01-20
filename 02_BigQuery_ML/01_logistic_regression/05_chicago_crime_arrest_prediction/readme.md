@@ -1,4 +1,4 @@
-# 05: How to use a logistic classification regression model to predict arrests on Chicago Crime data using  BigQueryML
+# 05: How to use a logistic classification model to predict arrests on Chicago Crime data using  BigQueryML
 
 The pupose of this project is to use a binary logistic regression model in BigQuery ML to make a binary prediction (yes/no) for arrests in the Chicago Crime Data set Census Dataset from 2001 to 2023.
 

@@ -1,50 +1,47 @@
-# Chicago Crime Data Set Machine Learning Model Ideas 
+# WorldBank International Debt Dataset 
 
-Table data: 
+The dataset [`International Debt`](https://cloud.google.com/marketplace/product/the-world-bank/international-debt) contains both national and regional debt statistics captured by over 200 economic indicators. Time series data is available for those indicators from 1970 to 2015 for reporting countries. 
 
-`[unique_key,					
-case_number,					
-date,					
-block,				
-iucr,				
-primary_type,				
-description,			
-location_description,					
-arrest,				
-domestic,					
-beat,				
-district,					
-ward,				
-community_area,					
-fbi_code,					
-x_coordinate,					
-y_coordinate,					
-year,				
-updated_on,				
-latitude,				
-longitude,				
-location]`		
+Multiple tables have been used to compile the data. The data was flattened to create a single working set: 
+- Country series definitions 
+- Country summary 
+- International debt
+- Series summary (496 series codes)
+- Series times
 
-# Logisitic Regression Models: 
-- Predict arrest probability (yes,no) on Chicago Crime
+### Actions taken: 
+Multiple tables have been used to compile the data. The data was flattened to create a single working set: 
 
+- Country series definitions
+- Country summary
+- International debt
+- Series summary
+- Series times
 
-# Linear Regression Models: 
-- 
+See the Data operations file for the series of transformations. 
+
+# Potential ML Models
+
+## Logisitic Regression Models: 
+- TBD
+
+## Linear Regression Models: 
+- How to use a linear_regression model to predict the average age of female first marriage using the World Bank Health dataset in BigQuery ML
 
 
-# K-Means Clustering Models: 
+
+## K-Means Clustering Models: 
 - Dates with highest Cluster highest crime
 - Cluster crimes 
 - Cluster locations
 - Cluster districts
 
-# Timeseries Models: 
+## Timeseries Models: 
 - Using BQML ARIMA models to Predict Demand for NYC Taxis based on the Weather Forecast
 
 
-# Matrix Factorization Models: 
-- Law enforcement distribution 
+## Matrix Factorization Models: 
+- TBD
 
 
 --------------------------------------------------------------------------------
