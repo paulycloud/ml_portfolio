@@ -30,10 +30,7 @@ See the Data operations file for the series of transformations.
 - Predict the age at first marriage for males (SP.DYN.SMAM.MA) for the US using the World Bank Health dataset in BigQuery ML
 
 ## K-Means Clustering Models: 
-- Dates with highest Cluster highest crime
-- Cluster crimes 
-- Cluster locations
-- Cluster districts
+- TBD
 
 
 ## Timeseries Models: 

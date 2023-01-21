@@ -30,27 +30,19 @@ See the Data operations file for the series of transformations.
 # Potential ML Models
 
 ## Logisitic Regression Models: 
-- Predict arrest probability (yes,no) on Chicago Crime
-- 
+- TBD
 
 ## Linear Regression Models: 
-- Predict average age of 
-- 
-- 
+- TBD
 
 ## K-Means Clustering Models: 
-- Dates with highest Cluster highest crime
-- Cluster crimes 
-- Cluster locations
-- Cluster districts
+- TBD
 
 ## Timeseries Models: 
-- Using BQML ARIMA models to Predict Demand for NYC Taxis based on the Weather Forecast
-
+- TBD
 
 ## Matrix Factorization Models: 
-- Law enforcement distribution 
-
+- TBD
 
 --------------------------------------------------------------------------------
 _Let's connect and chat! Open to anyone on Earth under the Sun and Moon._
