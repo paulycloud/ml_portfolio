@@ -12,7 +12,7 @@ I've completed over 100 hours of learning materials on [Pluralsight](https://app
 Here's a catalog of my work in Machine learning across multiple project types.  
 
 Find all my social links here 👉
-[All My Links](https://bio.link/paulkamau)
+[bio.link/paulkamau](https://bio.link/paulkamau)
 
 ### Technology based projects and solutions 
 I love experimenting with new technologies and approaches to these. The 4 categories of ML Platforms are: 
