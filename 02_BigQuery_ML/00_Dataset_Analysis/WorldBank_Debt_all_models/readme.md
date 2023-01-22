@@ -9,38 +9,30 @@ Multiple tables have been used to compile the data. The data was flattened to cr
 - Series summary (496 series codes)
 - Series times
 
-### Actions taken: 
-Multiple tables have been used to compile the data. The data was flattened to create a single working set: 
-
-- Country series definitions
-- Country summary
-- International debt
-- Series summary
-- Series times
-
+### Dataset Cleaning and preparation: 
 See the Data operations file for the series of transformations. 
 
-# Potential ML Models
+## Potential ML Models
+--------------------------------------------------------------------------------
 
-## Logisitic Regression Models: 
+### Logisitic Regression Models: 
 - TBD
 
-## Linear Regression Models: 
-- How to use a linear_regression model to predict the average age of female first marriage using the World Bank Health dataset in BigQuery ML
+### Linear Regression Models: 
+- How to use a linear_regression model to predict the outstanding debt of a country in a given year using the World Bank Health Debt in BigQuery ML
 
 
-
-## K-Means Clustering Models: 
+### K-Means Clustering Models: 
 - Dates with highest Cluster highest crime
 - Cluster crimes 
 - Cluster locations
 - Cluster districts
 
-## Timeseries Models: 
-- Using BQML ARIMA models to Predict Demand for NYC Taxis based on the Weather Forecast
+### Timeseries Models: 
+- TBD
 
 
-## Matrix Factorization Models: 
+### Matrix Factorization Models: 
 - TBD
 
 

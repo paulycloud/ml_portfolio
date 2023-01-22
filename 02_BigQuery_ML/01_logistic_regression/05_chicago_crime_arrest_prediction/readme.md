@@ -7,10 +7,6 @@ The model will predict whether a Crime resulted in an arrest using  the arrest f
 ### Dataset
 The public dataset [`Chicago Crime`](https://cloud.google.com/bigquery?sq=1057666841514:f29282e50d984f96a6fa3395aa080abf&_ga=2.187413480.-1379782407.1673021064&project=paulkamau&ws=!1m4!1m3!3m2!1s1057666841514!2schicago_crime) has about 7,713,765 rows of data from 2001 to 2023. 
 
-## Dataset Details 
-
-The dataset [`Chicago Crime`](https://cloud.google.com/bigquery?sq=1057666841514:f29282e50d984f96a6fa3395aa080abf&_ga=2.187413480.-1379782407.1673021064&project=paulkamau&ws=!1m4!1m3!3m2!1s1057666841514!2schicago_crime) has about 7,713,765 rows of data from 2001 to 2023. 
-
 Total columns = 22: 
 [unique_key,case_number,date,block,iucr,primary_type,description,location_description,arrest,domestic,beat,district,ward,community_area,fbi_code,x_coordinate,y_coordinate,year,updated_on,latitude,longitude,location]
 
