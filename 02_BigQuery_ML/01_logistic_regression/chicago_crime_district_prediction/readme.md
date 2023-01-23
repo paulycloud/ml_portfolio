@@ -1,8 +1,6 @@
 # How to use multi-class logistic classification model to predict which district a crime is likely to occur using Chicago Crime data in BigQueryML
 
-The pupose of this project is to use a multi-class logistic regression model in BigQuery ML to make a prediction (yes/no) for arrests in the Chicago Crime Data set Census Dataset from 2001 to 2023.
-
-The model will predict which district a crime is likely to take place  using one of **24 districts** based on the crime data attributes
+The pupose of this project is to use a multi-class logistic regression model in BigQuery ML to make a prediction on which district a crime is likely to take place using one of **24 districts** based on the crime data attributes from 2001 - 2023. 
 
 ### Dataset
 The public dataset [`Chicago Crime`](https://cloud.google.com/bigquery?sq=1057666841514:f29282e50d984f96a6fa3395aa080abf&_ga=2.187413480.-1379782407.1673021064&project=paulkamau&ws=!1m4!1m3!3m2!1s1057666841514!2schicago_crime) has about 7,713,765 rows of data from 2001 to 2023. 
