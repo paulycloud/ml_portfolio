@@ -21,9 +21,6 @@ Multiple tables have been used to compile the data. The data was flattened to cr
 1. Predict the average age average age of first marriage for females given certain factors based on the World Health Population Dataset
 
 ## Data Manipulation with SQL
-
-To build the prediction for average age of first marriage for men, the data combined the country_series information with the reproductive health series code to create an evaluation. 
-
 - See the data_operations notebook
 
 ## Tasks

@@ -19,10 +19,12 @@ See the Data operations file for the series of transformations.
 
 ## Linear Regression Models: How to use a linear regression model to:
 ### averages
-- Predict the average Total alcohol consumption per capita (SH.ALC.PCAP.LI) using the World Bank Health dataset in BigQuery ML
-- Predict the average age at first marriage for female (SP.DYN.SMAM.FE) using the World Bank Health dataset in BigQuery ML
-- Predict the average age at first marriage for males (SP.DYN.SMAM.MA) using the World Bank Health dataset in BigQuery ML
+- Predict the average Total alcohol consumption per capita (SH.ALC.PCAP.LI) using the World Bank Health dataset in BigQuery ML `[SH_ALC_PCAP_LI,SH_PRV_SMOK_FE,SH_STA_DIAB_ZS,SH_PRV_SMOK_MA,SH_PRV_SMOK,SH_ALC_PCAP_FE_LI,SH_ALC_PCAP_MA_LI]`
 
+- Predict the average age at first marriage for female (SP.DYN.SMAM.FE) using the World Bank Health dataset in BigQuery ML
+
+- Predict the average age at first marriage for males (SP.DYN.SMAM.MA) using the World Bank Health dataset in BigQuery ML
+`[SH_STA_PNVC_ZS,SH_PRG_SYPH_ZS,SH_MMR_RISK,SH_STA_ANVC_ZS,SP_M18_2024_FE_ZS,SP_DYN_SMAM_MA,SH_STA_BRTC_ZS,SH_MMR_WAGE_ZS,SH_STA_ANV4_ZS,SH_MMR_RISK_ZS,SH_VAC_TTNS_ZS,SP_UWT_TFRT,SP_DYN_WFRT,SP_MTR_1519_ZS,SP_DYN_CONU_ZS,SH_FPL_SATI_ZS,SP_DYN_CONM_ZS,SP_DYN_SMAM_FE,SH_STA_MMRT_NE,SH_MMR_DTHS,SH_FPL_SATM_ZS,SP_ADO_TFRT,SH_STA_MMRT,SP_M15_2024_FE_ZS]`
 
 #### annual 
 - Predict the Total alcohol consumption per capita (SH.ALC.PCAP.LI) for the US in 2020 using the World Bank Health dataset in BigQuery ML
@@ -30,8 +32,7 @@ See the Data operations file for the series of transformations.
 - Predict the age at first marriage for males (SP.DYN.SMAM.MA) for the US using the World Bank Health dataset in BigQuery ML
 
 ## K-Means Clustering Models: 
-- TBD
-
+- TBD 
 
 ## Timeseries Models: 
 - Predict the Total alcohol consumption per capita (SH.ALC.PCAP.LI) for the US in 2022 using the World Bank Health dataset in BigQuery ML
