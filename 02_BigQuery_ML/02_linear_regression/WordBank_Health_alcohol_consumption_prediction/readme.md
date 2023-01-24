@@ -1,4 +1,4 @@
-# How to use a linear_regression model to predict the average Total alcohol consumption per capita (SH_ALC_PCAP_LI) using BigQuery ML
+# How to use a linear regression model to predict the average Total alcohol consumption per capita (SH_ALC_PCAP_LI) using BigQuery ML
 
 This project used a linear regression model in BigQuery ML to to predict the average Total alcohol consumption per capita (SH.ALC.PCAP.LI) based on the WorldBank Health International Data.
 
