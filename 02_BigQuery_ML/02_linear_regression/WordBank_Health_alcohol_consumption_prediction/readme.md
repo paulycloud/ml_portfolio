@@ -1,6 +1,6 @@
-# 02: How to use a linear regression model to predict the average age of first marriage for females  given certain factors based on the World Health Population Dataset. 
+# How to use a linear_regression model to predict the average Total alcohol consumption per capita (SH_ALC_PCAP_LI) using BigQuery ML
 
-This project used a linear regression model in BigQuery ML to predict the average age of first marriage for females  given certain factors based on the World Health Population Dataset. 
+This project used a linear regression model in BigQuery ML to to predict the average Total alcohol consumption per capita (SH.ALC.PCAP.LI) based on the WorldBank Health International Data.
 
 ## Dataset Details 
 
@@ -22,12 +22,6 @@ Multiple tables have been used to compile the data. The data was flattened to cr
 
 ## Data Manipulation with SQL
 - See the data_operations notebook
-
-## Tasks
-1. Use the country summary table details to create a cleaned, flattened data set to build predictions based on the series extracted. 
-1. Created a pivot table that took the rows from Health nutrition population and created column structures into a new table. 
-1.  
-
 
 ## steps
 1. Create the dataset 
